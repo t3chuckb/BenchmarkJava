@@ -20,6 +20,6 @@ jobs:
         with:
           polaris_serverUrl: ${{ secrets.POLARIS_SERVER_URL }}
           polaris_accessToken: ${{ secrets.POLARIS_ACCESS_TOKEN }}
-          polaris_application_name: "NodeJS-Goof"
-          polaris_project_name: "NodeJF-Goof"
+          polaris_application_name: "OWASP Benchmark"
+          polaris_project_name: "OWASP Benchmark"
           polaris_assessment_types: "SCA,SAST"
