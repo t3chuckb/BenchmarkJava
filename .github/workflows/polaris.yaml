@@ -1,4 +1,4 @@
-name: Synopsys Security Testing
+name: Synopsys Polaris Security Testing
 
 on:
   push:
